@@ -15,7 +15,7 @@ In music-app/music_controller/frontend/
 - ``npm install react@17 react-dom@17 --save-dev``
 - ``npm install @material-ui/core``
 - ``npm install @babel/plugin-proposal-class-properties``
-- ``npm install react-router-dom``
+- ``npm install react-router-dom@5``
 - ``npm install @material-ui/icons``
 
 # Backend Run
